@@ -1,6 +1,6 @@
-# Archana Berry Studio Indonesia
+# Archana Berry Studio
 
-Selamat datang di repositori resmi **Archana Berry Studio Indonesia!**
+Selamat datang di repositori resmi **Archana Berry Studio!**
 
 Kami adalah pengembang perangkat lunak dan utilitas berbasis Unix yang bebas digunakan.
 
