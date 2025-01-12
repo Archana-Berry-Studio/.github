@@ -12,6 +12,7 @@ Archana Berry Studio Indonesia adalah proyek yang bertujuan untuk menyediakan be
 - **Archana Berry OS**: Sistem operasi berbasis Unix yang ringan dan terstruktur (WIP).
 - **Archana Berry Minigame**: Permainan simpel, sederhana menghibur (WIP).
 - **Archana Berry Coreutil Tools**: Sekumpulan inti alat bantu untuk pengembangan dan pengoprekan perangkat lunak.
+- **Archana Berry Logo Maker**: Aku juga bisa open commis (jasa pembuatan gambar logo) vtuber
 
 ## Kontribusi
 Kami menyambut kontribusi dari siapa saja! Untuk berkontribusi, harap ikuti petunjuk di [CONTRIBUTING.md](CONTRIBUTING.md).
