@@ -1,4 +1,5 @@
 # Archana Berry Studio
+![My Banner](archanaberry/banner.png)
 
 Selamat datang di repositori resmi **Archana Berry Studio!**
 
