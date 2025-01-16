@@ -23,6 +23,8 @@ Kami menyambut kontribusi dari siapa saja! Untuk berkontribusi, harap ikuti petu
 - [Archana Berry - Instagram](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
 - [Archana Berry - Twitter X](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
 - [Archana Berry - Threads](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
+- [Archana Berry - KuySocial](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
+- [Archana Berry - Discord](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
 
 ## Lisensi
 Semua proyek di bawah Archana Berry Studio Indonesia dilisensikan di bawah [Lisensi MIT](LICENSE).
