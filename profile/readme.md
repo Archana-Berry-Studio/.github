@@ -18,7 +18,11 @@ Archana Berry Studio Indonesia adalah proyek yang bertujuan untuk menyediakan be
 Kami menyambut kontribusi dari siapa saja! Untuk berkontribusi, harap ikuti petunjuk di [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Ikuti Kami
-- [Facebook](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
+- [Archana Berry - Github](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
+- [Archana Berry - Facebook](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
+- [Archana Berry - Instagram](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
+- [Archana Berry - Twitter X](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
+- [Archana Berry - Threads](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
 
 ## Lisensi
 Semua proyek di bawah Archana Berry Studio Indonesia dilisensikan di bawah [Lisensi MIT](LICENSE).
