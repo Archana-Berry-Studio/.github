@@ -27,4 +27,4 @@ Kami menyambut kontribusi dari siapa saja! Untuk berkontribusi, harap ikuti petu
 - [Archana Berry - Discord](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
 
 ## Lisensi
-Semua proyek di bawah Archana Berry Studio Indonesia dilisensikan di bawah [Lisensi MIT](LICENSE).
+Semua proyek di bawah Archana Berry Studio Indonesia dilisensikan di bawah [Lisensi Archana Berry License Official (ABLO)](LICENSE).
