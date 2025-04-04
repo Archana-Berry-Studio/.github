@@ -23,7 +23,7 @@ Kami menyambut kontribusi dari siapa saja! Untuk berkontribusi, harap ikuti petu
 - [Archana Berry - Instagram](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
 - [Archana Berry - Twitter X](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
 - [Archana Berry - Threads](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
-- [Archana Berry - KuySocial](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
+- [Archana Berry - KuySocial](https://www.kuysocial.com/archanaberry101)
 - [Archana Berry - Discord](https://www.facebook.com/profile.php?id=100095047230953&mibextid=ZbWKwL)
 
 ## Lisensi
