@@ -28,4 +28,4 @@ Kami menyambut kontribusi dari siapa saja! Untuk berkontribusi, harap ikuti petu
 - [Archana Berry - Pixiv](https://www.pixiv.net/en/users/108150491)
 
 ## Lisensi
-Semua proyek di bawah Archana Berry Studio Indonesia dilisensikan di bawah [Lisensi Archana Berry License Official (ABLO)](https://github.com/archanaberry/Lisensi).
+Semua proyek di bawah Archana Berry Studio Indonesia dilisensikan di bawah Lisensi [Archana Berry License Official (ABLO)](https://github.com/archanaberry/Lisensi).
